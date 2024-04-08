@@ -1,1 +1,1 @@
-# This is my quad Tree implementation ;)
+# This is my implementation ;)
